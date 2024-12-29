@@ -1,7 +1,7 @@
 # 🌌 **Advanced Weather Dashboard**
 
 Welcome to the **Advanced Weather Dashboard**! This cutting-edge web application offers real-time weather information, detailed forecasts, and the latest news, providing you with all the tools needed to stay informed about weather conditions worldwide. 
-[Demo](https://advanced-weather-five.vercel.app/)
+[Demo](https://mini-project-two-ivory.vercel.app/weather-search)
 
 ---
 
