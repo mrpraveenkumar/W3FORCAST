@@ -15,6 +15,8 @@ Welcome to the **Advanced Weather Dashboard**! This cutting-edge web application
 6. [Contributing](#contributing)
 7. [License](#license)
 8. [Contact](#contact)
+
+
 ![Screenshot 2024-11-03 135839](https://github.com/user-attachments/assets/22317365-55e5-4011-9cf9-341364966ddf)
 
 
@@ -51,25 +53,6 @@ The Advanced Weather Dashboard is packed with powerful features designed for you
 
 ---
 
-## Meet Our Team
-
-### 👨‍💻 Hariom Kumar (me)| **Software Developer**
-Hariom builds the backbone of our platform, making sure everything runs smoothly behind the scenes. With his efficient code and eye for detail, he ensures our systems stay fast, responsive, and reliable.
-
-### 🤖 Himanshu Kumar | **AI Researcher**
-Himanshu is our machine learning expert. He’s the mind behind the algorithms that make our forecasts so accurate. Constantly exploring new ways to improve our models, Himanshu is always pushing the limits of what AI can do in weather forecasting.
-
-### 📊 Dharani | **Data Scientist**
-Dharani digs into vast amounts of weather data to find the patterns that shape our forecasts. With her analytical skills, she keeps our models updated and precise, helping us stay ahead of changing weather conditions.
-
-### 🖥️ Arullaln | **Frontend Developer**
-Arullaln is the creative force behind our user interface. He designs clean, easy-to-use layouts that make it simple for you to find and understand the forecast. His work makes our platform both beautiful and functional.
-
-### 🔧 Ujjwal Kaushik | **Back-End Developer**
-Ujjwal makes sure our platform is always up and running, no matter how many users are checking the weather. With his experience in server-side programming, he keeps everything fast, efficient, and ready to deliver forecasts in real time.
-
-### 🚀 Ashwin Sundar | **Product Manager**
-Ashwin keeps us focused on what matters most: our users. With a vision for the future and a clear sense of purpose, he brings together our team’s talents to create features that truly make a difference in your daily life.
 
 ---
 
@@ -96,7 +79,7 @@ To set up the Advanced Weather Dashboard locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/advanced-weather-dashboard.git
+   git clone https://github.com/mrpraveenkumar/Mini-Project
    ```
 
 2. **Navigate into the Directory**:
@@ -156,12 +139,6 @@ The application is structured into several key components:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 💬 **Contact**
-
-For any inquiries or feedback, feel free to reach out!
-
-- **Website**: [site](https://www.hariompandit.me)
 
 ---
 
